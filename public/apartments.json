@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "address": "Millenia Walk, 9 Raffles Blvd",
+    "floor": "#03",
+    "door": "02"
+  },
+  {
+    "id": 2,
+    "address": "30 Merchant Rd",
+    "floor": "#10",
+    "door": "112"
+  },
+  {
+    "id": 3,
+    "address": "20 Maxwell Road, Maxwell House",
+    "floor": "#02",
+    "door": "13"
+  },
+  {
+    "id": 4,
+    "address": "10 Anson Road, International Plaza",
+    "floor": "#20",
+    "door": "14"
+  },
+  {
+    "id": 5,
+    "address": "101 Cecil Street,Tong Eng Building",
+    "floor": "#10",
+    "door": "07"
+  },
+  {
+    "id": 6,
+    "address": "100 Jalan Sultan, Golden Sultan Plaza",
+    "floor": "#04",
+    "door": "41"
+  },
+  {
+    "id": 7,
+    "address": "2 Kovan Road",
+    "floor": "#11",
+    "door": "01"
+  },
+  {
+    "id": 8,
+    "address": "14 Robinson Road, Far East Finance Building",
+    "floor": "#04",
+    "door": "12"
+  },
+  {
+    "id": 9,
+    "address": "50 Armenian Street,Wilmer Place",
+    "floor": "#02",
+    "door": "03"
+  }
+]
